@@ -1,0 +1,3 @@
+objetivo.txt : requisito.txt
+	     echo "requisito.txt es mas nuevo que objetivo.txt"
+	     touch objetivo.txt
